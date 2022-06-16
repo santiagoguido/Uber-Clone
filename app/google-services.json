@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864483433509",
+    "project_id": "uberappguido",
+    "storage_bucket": "uberappguido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864483433509:android:3a5ee754f132a86d3333cc",
+        "android_client_info": {
+          "package_name": "com.guido.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864483433509-4vr4uqcd2grpcklask9ueifk3u4guef6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guido.uberclone",
+            "certificate_hash": "d2a1ced5a6097b636538113c7c0ab9898134f65e"
+          }
+        },
+        {
+          "client_id": "864483433509-u8i3kijqnej9ofkv2sjande11sf488me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFeVrgPMq12YiZ3S5l6Idi4b6WtO6Pyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864483433509-u8i3kijqnej9ofkv2sjande11sf488me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
